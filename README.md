@@ -23,9 +23,15 @@ Studying and developing my self in Data Science and Machine Learning skills, my 
 * [Instagram](https://www.instagram.com/caio.bellezi)
 * [Github](https://github.com/caiobellezi)
 
+## Projetcts:
+In english
+
+* 
+
+
 
 ## Projetos:
-
+Em portugues
 
 * **Analise de Casos de covid 19 ABCD e Regiao** http://encurtador.com.br/gFPR0
 
