@@ -27,12 +27,11 @@ Studying and developing my self in Data Science and Machine Learning skills, my 
 ## Projetos:
 
 
-* **Analise de Casos de covid 19 ABCD e Regiao** https://github.com/caiobellezi/covid/blob/master/Covid_municipios_ABCD_e_regiao.ipynb 
+* **Analise de Casos de covid 19 ABCD e Regiao** http://encurtador.com.br/gFPR0
 
-* **Analise de Obitos de covid 19 ABCD e Regiao** 
-https://github.com/caiobellezi/covid/blob/master/obitos_covid_municipios_ABCD_e_regiao.ipynb
+* **Analise de Obitos de covid 19 ABCD e Regiao** http://encurtador.com.br/yABG2
 
-* **Analise de tolerancias unidimensional com Python** https://github.com/caiobellezi/Tolerancias/blob/master/Analise%20Tolerancia%20unidimensional.ipynb
+* **Analise de tolerancias unidimensional com Python** http://encurtador.com.br/dgE04
 
 ---
 
