@@ -16,9 +16,9 @@ Studying and developing my self in Data Science and Machine Learning skills, my 
 
 **Background in:** Body in White Development, Tolerance Analysis, Python and Machine Learning.
 
-**Links:**
+**Personal Links:**
 * [Linktr.ee](http://linktr.ee/bellezi)
-* [LinkedIn](https://www.linkedin.com/in/caio.bellezi)
+* [LinkedIn](https://www.linkedin.com/in/caiobellezi)
 * [Medium](https://medium.com/@caio.bellezi)
 * [Instagram](https://www.instagram.com/caio.bellezi)
 * [Github](https://github.com/caiobellezi)
