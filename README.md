@@ -23,9 +23,9 @@ Studying and developing my self in Data Science and Machine Learning skills, my 
 * [Instagram](https://www.instagram.com/caio.bellezi)
 * [Github](https://github.com/caiobellezi)
 
-## Projetcts:
-In english
-
+## Artigos
+Em Português
+* **[Como utilizar a função “norm.rvs” para criar distribuições 6 sigmas](https://medium.com/@caio.bellezi/como-utilizar-a-fun%C3%A7%C3%A3o-norm-rvs-para-distribui%C3%A7%C3%B5es-6-sigmas-2b9825660fd)** 
 * 
 
 
@@ -33,11 +33,11 @@ In english
 ## Projetos:
 Em portugues
 
-* **Analise de Casos de covid 19 ABCD e Regiao** http://encurtador.com.br/gFPR0
+* **[Analise de Casos de covid 19 ABCD e Regiao](http://encurtador.com.br/gFPR0)** 
 
-* **Analise de Obitos de covid 19 ABCD e Regiao** http://encurtador.com.br/yABG2
+* **[Analise de Obitos de covid 19 ABCD e Regiao](http://encurtador.com.br/yABG2)** 
 
-* **Analise de tolerancias unidimensional com Python** http://encurtador.com.br/dgE04
+* **[Analise de tolerancias unidimensional com Python](http://encurtador.com.br/dgE04)**
 
 ---
 
