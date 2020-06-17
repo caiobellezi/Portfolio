@@ -26,7 +26,7 @@ Studying and developing my self in Data Science and Machine Learning skills, my 
 ## Artigos
 Em Português
 * **[Como utilizar a função “norm.rvs” para criar distribuições 6 sigmas](https://medium.com/@caio.bellezi/como-utilizar-a-fun%C3%A7%C3%A3o-norm-rvs-para-distribui%C3%A7%C3%B5es-6-sigmas-2b9825660fd)** 
-* 
+
 
 
 
