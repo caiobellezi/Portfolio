@@ -23,7 +23,9 @@ Studying and developing my self in Data Science and Machine Learning skills, my 
 * [Instagram](https://www.instagram.com/caio.bellezi)
 * [Github](https://github.com/caiobellezi)
 
-## Artigos
+## Artigos / Articles
+In english
+* **[Why you always should use Numpy?](https://medium.com/@caio.bellezi/why-should-you-always-use-numpy-c4adece8a870)**
 Em Português
 * **[Como utilizar a função “norm.rvs” para criar distribuições 6 sigmas](https://medium.com/@caio.bellezi/como-utilizar-a-fun%C3%A7%C3%A3o-norm-rvs-para-distribui%C3%A7%C3%B5es-6-sigmas-2b9825660fd)** 
 
