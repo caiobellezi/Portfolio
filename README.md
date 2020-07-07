@@ -36,11 +36,14 @@ Em Português
 Em portugues
 
 * **[Analise do Dados do AirBnB - Berlin](https://github.com/caiobellezi/Analise_AirBnB_Berlin/blob/master/Analisando_os_Dados_do_Airbnb_Berlin.ipynb)**
+
 * **[Analise de Casos de covid 19 ABCD e Regiao](http://encurtador.com.br/gFPR0)** 
 
 * **[Analise de Obitos de covid 19 ABCD e Regiao](http://encurtador.com.br/yABG2)** 
 
 * **[Analise de tolerancias unidimensional com Python](http://encurtador.com.br/dgE04)**
+
+* **[Analise da violência do estado do RJ](https://github.com/caiobellezi/Violencia_ERJ/blob/master/Analise_de_Viol%C3%AAncia_do_estado_do_Rio_de_Janeira.ipynb)**
 
 ---
 
