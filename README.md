@@ -46,6 +46,9 @@ Em portugues
 * **[Analise de tolerancias unidimensional com Python](http://encurtador.com.br/dgE04)**
 
 
+## Estudos / Studies
+
+* **[caiobellezi/Estudos](https://github.com/caiobellezi/estudos/tree/master)**
 
 ---
 
